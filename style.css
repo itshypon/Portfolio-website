@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font: inherit;
+    color: white;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+body {
+    background-color: #000314;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+    padding: 1.5rem;
+}
+
+.dev-tag {
+    font-size: 2rem;
+}
+
+
